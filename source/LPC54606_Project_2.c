@@ -38,6 +38,11 @@ int main(void) {
 
     PRINTF("3-9-2025\r\n");
 
+
+    PRINTF("6-9-2025\r\n");
+
+    PRINTF("7-9-2025\r\n");
+
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
     /* Enter an infinite loop, just incrementing a counter. */
