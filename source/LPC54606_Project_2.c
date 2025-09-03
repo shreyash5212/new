@@ -36,6 +36,7 @@ int main(void) {
     PRINTF("Hello World\r\n");
 
 
+    PRINTF("3-9-2025\r\n");
 
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
