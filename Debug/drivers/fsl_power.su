@@ -1,0 +1,15 @@
+../drivers/fsl_common_arm.h:902:24:DisableGlobalIRQ	16	static
+../drivers/fsl_common_arm.h:928:20:EnableGlobalIRQ	24	static
+../drivers/fsl_power.h:167:20:POWER_EnableDeepSleep	4	static
+../drivers/fsl_power.c:170:6:POWER_setVdLevel	16	static
+../drivers/fsl_power.c:175:6:POWER_EnterSleep	24	static
+../drivers/fsl_power.c:186:13:DeepSleepReloc	72	static
+../drivers/fsl_power.c:371:6:POWER_InitBod	24	static
+../drivers/fsl_power.c:385:6:POWER_GetDefaultBodConfig	16	static
+../drivers/fsl_power.c:396:6:POWER_EnterDeepSleep	24	static
+../drivers/fsl_power.c:408:6:POWER_EnterDeepPowerDown	24	static
+../drivers/fsl_power.c:427:6:POWER_EnterPowerMode	24	static
+../drivers/fsl_power.c:449:6:POWER_SetVoltageForFreq	16	static
+../drivers/fsl_power.c:481:6:POWER_SetPLL	4	static
+../drivers/fsl_power.c:490:6:POWER_SetUsbPhy	4	static
+../drivers/fsl_power.c:499:10:POWER_GetLibVersion	4	static

@@ -1,0 +1,10 @@
+../device/system_LPC54606.c:75:17:getWdtOscFreq	16	static
+../device/system_LPC54606.c:90:17:pllDecodeN	32	static
+../device/system_LPC54606.c:128:17:pllDecodeP	32	static
+../device/system_LPC54606.c:165:17:pllDecodeM	32	static
+../device/system_LPC54606.c:203:17:findPllPreDiv	24	static
+../device/system_LPC54606.c:222:17:findPllPostDiv	24	static
+../device/system_LPC54606.c:241:17:findPllMMult	24	static
+../device/system_LPC54606.c:266:6:SystemInit	8	static
+../device/system_LPC54606.c:290:6:SystemCoreClockUpdate	64	static
+../device/system_LPC54606.c:368:29:SystemInitHook	4	static
