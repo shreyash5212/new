@@ -34,7 +34,7 @@ int main(void) {
 #endif
 
     PRINTF("Hello World\r\n");
-
+    PRINTF("3-9-2025\r\n");
 
 
     /* Force the counter to be placed into memory. */
