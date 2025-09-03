@@ -59,6 +59,9 @@ int main(void) {
         /* 'Dummy' NOP to allow source level single stepping of
             tight while() loop */
         __asm volatile ("nop");
+
+         PRINTF("8-9-2025\r\n");
+    PRINTF("9-9-2025\r\n");
     }
     return 0 ;
 }
