@@ -34,6 +34,7 @@ int main(void) {
 #endif
 
     PRINTF("Hello World\r\n");
+    PRINTF("Hello World- 3-9-2025\r\n");
 
 
 
