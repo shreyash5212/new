@@ -54,6 +54,11 @@ int main(void) {
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
     /* Enter an infinite loop, just incrementing a counter. */
+
+    PRINTF("Hello World\r\n");
+
+
+        PRINTF("3-9-2025\r\n");
     while(1) {
         i++ ;
         /* 'Dummy' NOP to allow source level single stepping of
