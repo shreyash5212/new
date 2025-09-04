@@ -38,6 +38,7 @@ int main(void) {
 
     PRINTF("3-9-2025\r\n");
 /*
+ *
 <<<<<<< HEAD
 
     PRINTF("6-9-2025\r\n");
@@ -50,6 +51,10 @@ int main(void) {
 */
      PRINTF("8-9-2025\r\n");
     PRINTF("9-9-2025\r\n");
+
+
+    int abc=45;
+    int def=65;
 
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
