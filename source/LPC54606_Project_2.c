@@ -52,9 +52,14 @@ int main(void) {
      PRINTF("8-9-2025\r\n");
     PRINTF("9-9-2025\r\n");
 
+<<<<<<< HEAD
 
     int abc=45;
     int def=65;
+=======
+    int mnp=90;
+    int pqr=80;
+>>>>>>> 861e6f94c7979b6c8f3ae405526f8d9918f2cf0d
 
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
