@@ -37,6 +37,9 @@ int main(void) {
 
 
     PRINTF("3-9-2025\r\n");
+
+    int abc1=90;
+    int abc2=100;
 /*
  *
 <<<<<<< HEAD
