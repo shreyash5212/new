@@ -51,6 +51,9 @@ int main(void) {
      PRINTF("8-9-2025\r\n");
     PRINTF("9-9-2025\r\n");
 
+    int mnp=90;
+    int pqr=80;
+
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
     /* Enter an infinite loop, just incrementing a counter. */
