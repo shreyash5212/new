@@ -37,7 +37,7 @@ int main(void) {
 
 
     PRINTF("3-9-2025\r\n");
-
+/*
 <<<<<<< HEAD
 
     PRINTF("6-9-2025\r\n");
@@ -47,7 +47,7 @@ int main(void) {
     PRINTF("4-9-2025\r\n");
     PRINTF("5-9-2025\r\n");
 >>>>>>> 4af103180d94364eb0e883994288b28cff8ca603
-
+*/
      PRINTF("8-9-2025\r\n");
     PRINTF("9-9-2025\r\n");
 
